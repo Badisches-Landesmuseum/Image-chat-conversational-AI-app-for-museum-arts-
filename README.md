@@ -7,6 +7,7 @@ Upload a photo or take a photo of the art work , the TensorFlow model will class
 
 # run
 pip install -r requirements.txt
+
 python application.py
 
 
