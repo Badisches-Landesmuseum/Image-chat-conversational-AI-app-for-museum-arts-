@@ -14,4 +14,4 @@ download the apk for real-time inference
 
 
 # training the model
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WLDePGYJeIeyR5BH7VzBLFQYQxg9Hu4P?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/drive/1WLDePGYJeIeyR5BH7VzBLFQYQxg9Hu4P?usp=sharing)]
